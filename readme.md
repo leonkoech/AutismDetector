@@ -2,8 +2,10 @@
 
 Unity SDK to enable developers detect and act upon sensory overload in autistic individuals during XR experiences.
 
-![AIMG_178](https://user-images.githubusercontent.com/39020723/232940076-ea1be705-b2b0-42c8-95bb-d2d3f31697e4.png)
-![AIMG-179a](https://user-images.githubusercontent.com/39020723/232940816-d7f3f8bd-0cfa-4b34-92b6-26c3a9669780.jpg)
+Developed by Darius Huang, Leon Kipkoech, Rukhshan Haroon, Alex K. Chen at Harvard University 2023 for dreamhack by harvrd xr club
+
+![team](https://user-images.githubusercontent.com/39020723/232943424-b093b3d5-95d2-4af2-a207-1e448399221a.jpg)
+
 
 ## Description
 The project is focused on developing a software development kit (SDK) for Unity developers to create augmented reality (AR) and Virtual Reality (VR) experiences that are specifically designed to be usable and accessible for individuals with autism. 
@@ -14,7 +16,8 @@ Autism is a neurodevelopmental disorder that is caused by a mix of genetic and e
 ## Solution
 To address these challenges, the team created an SDK that tracks the rate of change of eye-gaze movement to detect sensory overload in sight. If sensory overload is detected, the augmented field of view is edited on the fly to make the experience more comfortable for the individual. Two XR experiences were created to showcase the use and implementation of the SDK. 
 
-![IMG_4893](https://user-images.githubusercontent.com/39020723/232941095-3938a8aa-19d6-4fe6-a2b7-81b736d49f19.jpg)
+![work](https://user-images.githubusercontent.com/39020723/232944618-990e3abf-115b-4abd-843a-22090f0d3eaf.jpg)
+
 
 ### Use Case 1
 The first experience is an educational app that simulates the solar system in AR. The teacher talks about one planet (target) at a time, and the target is fixed while the remaining planets orbit around the user. If sensory overload is detected, the other planets stop moving, allowing the user to focus on the target planet.
@@ -38,5 +41,11 @@ Frameworks: `Unity`, `MRTK`, `XR Interaction Toolkits`, `Magic Leap Mesh` and `E
 Hardware: `Magic Leap 2`
 
 ## Demo: 
-![demo scene 1, education, Solar/Planetary System](https://youtu.be/MH-ThvZUHNE)
-![demo scene 2, art/museum](https://youtube.com/shorts/9Rk4QGgXhDA?feature=share)
+
+### _demo scene 1, education, Solar/Planetary System_
+
+[![uses of autimented reality SDK](http://img.youtube.com/vi/MH-ThvZUHNE/0.jpg)](http://www.youtube.com/watch?v=MH-ThvZUHNE "uses of autimented reality SDK")
+
+### _demo scene 2, art/museum_
+
+[![Use case two: art/museum](http://img.youtube.com/vi/9Rk4QGgXhDA/0.jpg)](http://www.youtube.com/watch?v=9Rk4QGgXhDA "Use case two: art/museum")
