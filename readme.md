@@ -18,10 +18,10 @@ Autism is a neurodevelopmental disorder that is caused by a mix of genetic and e
 ## Solution
 To address these challenges, the team created an SDK that tracks the rate of change of eye-gaze movement to detect sensory overload in sight. If sensory overload is detected, the augmented field of view is edited on the fly to make the experience more comfortable for the individual. Two XR experiences were created to showcase the use and implementation of the SDK. 
 
-![work](https://user-images.githubusercontent.com/39020723/232944618-990e3abf-115b-4abd-843a-22090f0d3eaf.jpg)
-
+![teamopr2](https://user-images.githubusercontent.com/39020723/232949102-6ab6bd35-4adf-46e4-8772-e67adfe800e6.jpg)
 
 ### Use Case 1
+
 The first experience is an educational app that simulates the solar system in AR. The teacher talks about one planet (target) at a time, and the target is fixed while the remaining planets orbit around the user. If sensory overload is detected, the other planets stop moving, allowing the user to focus on the target planet.
 
 ### Use Case 2
