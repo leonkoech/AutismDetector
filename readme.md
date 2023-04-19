@@ -2,10 +2,12 @@
 
 Unity SDK to enable developers detect and act upon sensory overload in autistic individuals during XR experiences.
 
-Developed by Darius Huang, Leon Kipkoech, Rukhshan Haroon, Alex K. Chen at Harvard University 2023 for dreamhack by harvrd xr club
 
+Winner of the harvrd dreamhack 2023 at Harvard University.
+Developed by Darius Huang, Leon Kipkoech, Rukhshan Haroon, Alex K. Chen at Harvard University 2023 for dreamhack by harvrd xr club. 
+
+![final](https://user-images.githubusercontent.com/39020723/232945519-4b3edaa5-f6bd-4d45-9568-b5916cc27da4.jpg)
 ![team](https://user-images.githubusercontent.com/39020723/232943424-b093b3d5-95d2-4af2-a207-1e448399221a.jpg)
-
 
 ## Description
 The project is focused on developing a software development kit (SDK) for Unity developers to create augmented reality (AR) and Virtual Reality (VR) experiences that are specifically designed to be usable and accessible for individuals with autism. 
